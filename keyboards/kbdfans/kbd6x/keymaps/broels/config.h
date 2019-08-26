@@ -1,5 +1,7 @@
 #include "../../config.h"
 
+#define FORCE_NKRO
+
 #undef TAPPING_TERM
 #define TAPPING_TERM 200
 
